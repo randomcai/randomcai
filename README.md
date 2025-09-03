@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hiii, I’m Catarina aka randomcai !<br>
+# 💫 Hiii, I’m Catarina aka randomcai !
 🎮 Currently studying Game Development & Technology at NYP<br>
 🛠️ Always doing some sort of side projects, from games to learning algorithms<br>
 🌱 Trying to learn, build n explore!
