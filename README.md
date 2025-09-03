@@ -1,11 +1,11 @@
-## 💫 About Me:
+# 💫 About Me:
 Hiii, I’m Catarina aka randomcai !<br>
 🎮 Currently studying Game Development & Technology at NYP<br>
 🛠️ Always doing some sort of side projects, from games to learning algorithms<br>
 🌱 Trying to learn, build n explore!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/catarina-chai-09a261319) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/randomcai) 
 
 # 💻 Tech Stack:
